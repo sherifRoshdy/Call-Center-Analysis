@@ -1,7 +1,7 @@
 # Call-Center-Analysis
 <p>Dashboard for Call Center Analytics: Unlocking Insights from Excel Data Using Power BI</p>
 
-<img src="!https://github.com/sherifRoshdy/Call-Center-Analysis/assets/77529268/21fdfad1-7f06-445a-a598-2ce1ebd645c0" ,weight=50px ,height =50px>
+<img src="https://github.com/sherifRoshdy/Call-Center-Analysis/assets/77529268/21fdfad1-7f06-445a-a598-2ce1ebd645c0">
 
 
 <br>
