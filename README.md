@@ -1,9 +1,11 @@
 # Call-Center-Analysis
 <p>*Dashboard for Call Center Analytics: Unlocking Insights from Excel Data Using Power BI*</p>
-<br>
-![Background](https://github.com/sherifRoshdy/Call-Center-Analysis/assets/77529268/16ef7d8f-e5ca-4f51-b417-be5782892b26)
+
 <br>
 
+!(https://github.com/sherifRoshdy/Call-Center-Analysis/assets/77529268/16ef7d8f-e5ca-4f51-b417-be5782892b26)
+
+<br>
 This project aims to create an interactive dashboard that displays key metrics and insights for a call center using Power BI. The dashboard is based on a sample Excel data set that contains information about the calls, agents, and departments of a fictional call center.
 
 ## Features
