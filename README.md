@@ -5,7 +5,7 @@
 
 
 <br>
-This project aims to create an interactive dashboard that displays key metrics and insights for a call center using Power BI. The dashboard is based on a sample Excel data set that contains information about the calls, agents, and departments of a fictional call center.
+Developed a Call Center Analysis project using Power BI Dashboard to evaluate key performance metrics. Utilized DAX (Data Analysis Expressions) to create custom measures. enabling deeper insights into operational efficiency. Implemented ETL processes within Power BI to clean and transform raw data from CSV files
 
 ## Features
 
